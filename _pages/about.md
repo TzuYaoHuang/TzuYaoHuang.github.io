@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tudelft.nl/en/me/about/departments/maritime-and-transport-technology'>Maritime and Transport Technology, TU Delft</a>.
+subtitle: PhD candidate on simulating multiphase turbulent.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>34.B-2-320</p>
     <p>Leeghwaterstraat 17</p>
@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+:wave:  I'm a PhD candidate at TU Delft studying multiphase turbulence physics through high-fidelity numerical simulations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on developing [InterfaceAdvection.jl](https://github.com/TzuYaoHuang/InterfaceAdvection.jl), a physics-preserving and robust incompressible multiphase solver built on [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl). The project aims to provide a good base to understand the multiphase physics.
+I am currently supervised by [Prof. Weymouth](https://weymouth.github.io/) at TU Delft. Previously, I completed my MSc at TU Delft and worked with [Dr. Lidtke](https://github.com/UnnamedMoose) at [MARIN](https://www.marin.nl/en) on cavitation inception using Lagrangian Particle Tracking methods.
+I obtained my BSc from National Taiwan University, where I worked on multiphase-related problems including sewage flow simulation, ship resistance in calm water, and propeller flow simulations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy learning cool numerical scheme myself like spectral method.
+
