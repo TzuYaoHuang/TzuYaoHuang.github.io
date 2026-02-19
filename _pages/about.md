@@ -6,7 +6,7 @@ subtitle: PhD candidate on simulating multiphase turbulent.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_sq.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>34.B-2-320</p>
