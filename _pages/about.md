@@ -33,5 +33,5 @@ My current research focuses on developing [InterfaceAdvection.jl](https://github
 I am currently supervised by [Prof. Weymouth](https://weymouth.github.io/) at TU Delft. Previously, I completed my MSc at TU Delft and worked with [Dr. Lidtke](https://github.com/UnnamedMoose) at [MARIN](https://www.marin.nl/en) on cavitation inception using Lagrangian Particle Tracking methods.
 I obtained my BSc from National Taiwan University, where I worked on multiphase-related problems including sewage flow simulation, ship resistance in calm water, and propeller flow simulations.
 
-I enjoy learning cool numerical scheme myself like spectral method.
+I also enjoy teaching and learning some cool new stuffs myself.
 
